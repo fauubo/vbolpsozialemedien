@@ -1,0 +1,17 @@
+<html>
+   <head>
+		<title>Soziale Medien</title>
+		<link rel="stylesheet" href="style/style.css">
+		<link rel="icon" href="icon/icon_steam.png">
+   </head>
+   <center>
+   <body>
+	<h1>Meine sozialen Medien</h1>
+	<h2>
+	<a href="https://discord.gg/Wwbremh" target="_blank" class="button" style="background-color:#f1bb4e">Discord</a> <br>
+	<a href="https://steamcommunity.com/groups/fauubo" target="_blank" class="button" style="background-color:#4ef18f">Steam</a> <br>
+	<a href="https://sites.google.com/view/kellerkinder/start" target="_blank" class="button" style="background-color:#ff785b ">Website</a> <br>
+	</h2>
+   </body>
+</center>
+</html>
